@@ -12,7 +12,7 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
         server: 170.244.176.115
-        username: ${{ secrets.FTPUSERNAME }}
-        password: ${{ secrets.FTPPASSWORD }}
+        username: dev@tovendo.melhormidia.com.br
+        password: 28hBwLZvgdUT
         protocol: ftps
         server-dir: public_html/
