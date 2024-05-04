@@ -15,4 +15,4 @@ jobs:
         username: dev@tovendo.melhormidia.com.br
         password: 28hBwLZvgdUT
         protocol: ftps
-        server-dir: public_html/
+        server-dir: /
